@@ -3,6 +3,10 @@
 Real-time hand tracking using **OpenCV** and **MediaPipe**.  
 Detects up to 2 hands via webcam and draws 21 joint landmarks with a skeleton overlay.
 
+## Demo
+
+![Hand Tracking Demo](handtracking.png)
+
 ---
 
 ## Setup & Run
