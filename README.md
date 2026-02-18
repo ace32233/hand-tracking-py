@@ -5,7 +5,7 @@ Detects up to 2 hands via webcam and draws 21 joint landmarks with a skeleton ov
 
 ## Demo
 
-![Hand Tracking Demo](handtracking.png)
+![Hand Tracking Demo](assets/handtracking.png)
 
 ---
 
